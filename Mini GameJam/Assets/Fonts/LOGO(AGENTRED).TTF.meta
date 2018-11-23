@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ac44930d4def96445bf723f2c90bcf5f
+timeCreated: 1508163920
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Agent Red
+  fontNames:
+  - Agent Red
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

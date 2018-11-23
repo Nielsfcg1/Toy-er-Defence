@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2643b217ac2b25641a756809bd2be1cc
+timeCreated: 1507649353
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Child's Play
+  fontNames:
+  - Child's Play
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
